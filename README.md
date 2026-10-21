@@ -36,7 +36,22 @@ If user clicks, they see:
 2. How to check a fake link?
 3. What to do if you receive a suspicious email?
 4. Why should you not share OTP?
+Live Demo - Click to Test
 
+1.  Main Page (Phishing Simulation):
+    https://insha-maker.github.io/phishing-awareness-simulation/
+
+2.  Landing Page + Quiz FORM (GOOD CATCH! Page):
+    https://insha-maker.github.io/phishing-awareness-simulation/landing-page.html
+
+3.  GitHub Source Code:
+    https://github.com/Insha-maker/phishing-awareness-simulation
+
+## 📂 Project Structure
+- `index.html` - Phishing simulation email page
+- `landing-page.html` - Educational landing page with GOOD CATCH message, 5 Tips & Quiz Form
+- `README.md` - This documentation
+-
 ## 📊 Results Analysis
 We only track anonymous stats: Opened, Clicked, Reported. No personal data.
 
